@@ -1,0 +1,1798 @@
+fileFormatVersion: 2
+guid: 05cd4f5a984f9014e8e2eabb4065aaf5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1115
+        width: 255
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61ddd76819ac3d42895b5567067aef6
+      internalID: -1852509090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 985
+        width: 130
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8675a4630da354aad0acf6328eb4bd
+      internalID: 1515769969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_2
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 985
+        width: 129
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbc349dcb7a0cd40be6b25911f0c448
+      internalID: -1304140437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 982
+        width: 130
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c39ada5268bcbd4ab314b74a1ee0a1f
+      internalID: 1320194335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_4
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 982
+        width: 130
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b621c0824e9f040bc72f049237b634
+      internalID: 1106060152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_5
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1066
+        width: 19
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7e04bfd5706de4eb2e457a487636a0
+      internalID: 1724485004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_6
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1099
+        width: 18
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2dfb6f939f4c14cad5cb3d2e359337
+      internalID: 758655562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_7
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1115
+        width: 19
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb7dd784fcb9bb4ba6ebae3e725d223
+      internalID: 1448013873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_8
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1130
+        width: 18
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57374ea4cf205034d88df9cf399acefb
+      internalID: -1812040121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_9
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1130
+        width: 19
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f3def26f6ade47b70bfe88855c72a
+      internalID: 1075234108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_10
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1147
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482f90a43577b0c4592c821cd48e7c07
+      internalID: 1029931675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_11
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1155
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6767d94f58ea745aca956ae75f0b28
+      internalID: 878136061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_12
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1072
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8165a78c1c7b7354a9778d5ad70d867c
+      internalID: 812127566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_13
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 1139
+        width: 80
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bb7f71397c0bd479423b54e7aa066a
+      internalID: 67319423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_14
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 961
+        width: 117
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913da5949570ba94abe9fdb33a9fb382
+      internalID: 647596029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_15
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 336
+        width: 260
+        height: 890
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208b7294948a5f44a9e529a5ffaf3290
+      internalID: -1409433546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_16
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1094
+        width: 101
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46d04d8d669a0047a0e1de624863617
+      internalID: 1086842037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_17
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1108
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42a038544709a34b8ef74505bbfece2
+      internalID: -1320239944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_18
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 1106
+        width: 87
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1424fdec4feef484781d012f6c0309f6
+      internalID: 1897034684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_19
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 985
+        width: 130
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532271aaaa281ca4d8ff4d3a99ed657a
+      internalID: 985732147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_20
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1072
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878a5ec989ac9e0409e94d888455df86
+      internalID: 546954648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_21
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 723
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2a97d8f0701714bbdb9838387d2d43
+      internalID: 1127823738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_22
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 930
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59502c3cbd6d4824caf4d4bff5f2ed92
+      internalID: 1084829257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 930
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c4ff53c6e42a04684287df4a861b03
+      internalID: -1488776422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_24
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 954
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328ede9387b9720469052fdb127940cf
+      internalID: 37090368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_25
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 957
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77b116e942afc744acdd648ade86817
+      internalID: 1079984574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_26
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 854
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17b5889b74b66e4daa6096e26073110
+      internalID: -1987922361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_27
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 723
+        width: 130
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3758a4f962d0ca40941c0e55d462963
+      internalID: 214071254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_28
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 723
+        width: 130
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029dba9407dae6f42ba984ef00258cbb
+      internalID: 1965711802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_29
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 924
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca24cbc566688e4cb55234c4a265aeb
+      internalID: 1107661601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_30
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 924
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea11d664bad58b4f93158216588bbce
+      internalID: 796086148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_31
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 815
+        width: 130
+        height: 242
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471fe0a650613d74cbcddf54fd1973d9
+      internalID: -484488638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_32
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 814
+        width: 130
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdc269bafe5c1d4e9224625b7548c84
+      internalID: 1575108888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_33
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 918
+        width: 98
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f261246dcc88146448ecf7bbf44b9ef3
+      internalID: 1018780660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_34
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 893
+        width: 130
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30335cbb5ba6214db6b740f1a9dd3bf
+      internalID: -476954160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 921
+        width: 66
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b9ebfeb30ae794a90deb423ab00530
+      internalID: -2097262792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_36
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 854
+        width: 82
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aee90c11c38cd544bfb19096c914d92
+      internalID: -2046979923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_37
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 790
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00d2e4b5ea41ce43a13f2009b3ee621
+      internalID: 1918095220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_38
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 790
+        width: 130
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321bc4099ac959c4b997530a374280ed
+      internalID: 341477338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_39
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 893
+        width: 130
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88293507d2980ce488879ae3c7f71795
+      internalID: -2005294967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 823
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53356ee808f29d45ae0ff747ed551e2
+      internalID: -1104640166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_41
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 854
+        width: 130
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303e78ab32e5ba54fa0909fbd073b569
+      internalID: 1666409938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_42
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 723
+        width: 130
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53541996e8e5bf9458501d54ab2d4d08
+      internalID: 730369156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_43
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 723
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0264a49fd7bab1d44ad94fe1ca408d25
+      internalID: 1221444437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_44
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 723
+        width: 258
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8551f0c863dad294fbb2a9cc3a0871a2
+      internalID: -1091715946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_45
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 723
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d0fd0e334dc3d478ec0c0b581018b5
+      internalID: -1616271478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_46
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 723
+        width: 130
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de406ef3a0b02c438a4468ceb23f194
+      internalID: -1206137755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_47
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 702
+        width: 68
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7de66666d3308e4d84582dda60ca2a9
+      internalID: 907735570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_48
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 468
+        width: 320
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2408a932683bb42ae6a5402f7c0f44
+      internalID: 1289778064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_49
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 468
+        width: 321
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901a6cc0a033aee42abe0e0e903c8b2f
+      internalID: 890794004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_50
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 519
+        width: 388
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f441cece1d9794489bd176d2be099e
+      internalID: -1758299778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_51
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 5
+        width: 514
+        height: 697
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3088ee6bc6c29204b8d70aa7576e6c6d
+      internalID: 704258561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_52
+      rect:
+        serializedVersion: 2
+        x: 2037
+        y: 651
+        width: 84
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642616a6e7b123f4e8f5aef79d168d1d
+      internalID: 23687551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_53
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 582
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73c66722ae77b643959b3e32dcf345d
+      internalID: -814727499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_54
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 561
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f36189951f6f7643b9abda681864c6f
+      internalID: -1623876659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_55
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 561
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda70bc27b0cdc7419142314c7bc1e12
+      internalID: -1654286279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_56
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 561
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eed1526ab86fcc4d91fa95499f07dce
+      internalID: -2050270500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_57
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 463
+        width: 99
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6720fe4b74a8e54d90dfe6371d5cbad
+      internalID: -831452362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_58
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 248
+        width: 58
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d40ee7dd26a3b4ab0dc5cdda33c249
+      internalID: 708870133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_59
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 248
+        width: 50
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a13c425a17bbb541a44ce9e0b530c2a
+      internalID: -1355065902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 248
+        width: 34
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3589c1bdf96bfbd4ebeff42793a06f4a
+      internalID: 12129799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 248
+        width: 35
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4f34c5389eecc49ac937b0d73ded8d
+      internalID: -1697480890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_62
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 248
+        width: 66
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d288720a7a4c4ac47b23ffdfda1695b6
+      internalID: -683967104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_63
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 248
+        width: 122
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dfab01961a8a54d83709ff79b616b4
+      internalID: 2009921898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_64
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 281
+        width: 137
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe722e1b59934b44c90af3e303474177
+      internalID: -955610230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_65
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 255
+        width: 321
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a22afef7cad8f429fdcef49b38e040
+      internalID: 70331769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_66
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 234
+        width: 288
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3a88df7ff61db418b2ba01e758e55f
+      internalID: -782247933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_67
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 38
+        width: 130
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798a61b5ef44d6d45b9eb7db580a5db6
+      internalID: -1290015215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_68
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 22
+        width: 258
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49407e0113c0d574394fcc10579b7624
+      internalID: -1085287217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_69
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 17
+        width: 386
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0da29ab74de99642ac6db44157d26eb
+      internalID: -1098016561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_70
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 166
+        width: 322
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9a9483e259e3240b35570e01e799ac
+      internalID: 1593128602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_71
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 99
+        width: 290
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ff16288ef17224f98b1434b153e096
+      internalID: -1176728802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_72
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 17
+        width: 290
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc78a8c2feb9fe408d37531face3f18
+      internalID: 489484545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_73
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 987
+        width: 255
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79038f69eb600504fb94d4a72440287d
+      internalID: -1027597420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_74
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 987
+        width: 128
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f711d230476dda47b3da296c8b1c5e8
+      internalID: 1051632317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_8: -1812040121
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_9: 1075234108
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_28: 1965711802
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_2: -1304140437
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_52: 23687551
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_62: -683967104
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_17: -1320239944
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_23: -1488776422
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_22: 1084829257
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_31: -484488638
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_26: -1987922361
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_50: -1758299778
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_6: 758655562
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_12: 812127566
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_54: -1623876659
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_53: -814727499
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_59: -1355065902
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_71: -1176728802
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_33: 1018780660
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_21: 1127823738
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_24: 37090368
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_32: 1575108888
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_37: 1918095220
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_7: 1448013873
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_18: 1897034684
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_64: -955610230
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_41: 1666409938
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_3: 1320194335
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_15: -1409433546
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_74: 1051632317
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_13: 67319423
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_19: 985732147
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_58: 708870133
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_56: -2050270500
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_51: 704258561
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_36: -2046979923
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_46: -1206137755
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_43: 1221444437
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_68: -1085287217
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_69: -1098016561
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_72: 489484545
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_38: 341477338
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_48: 1289778064
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_63: 2009921898
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_49: 890794004
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_25: 1079984574
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_16: 1086842037
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_60: 12129799
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_14: 647596029
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_29: 1107661601
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_73: -1027597420
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_61: -1697480890
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_10: 1029931675
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_55: -1654286279
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_42: 730369156
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_40: -1104640166
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_20: 546954648
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_5: 1724485004
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_34: -476954160
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_35: -2097262792
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_70: 1593128602
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_66: -782247933
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_1: 1515769969
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_47: 907735570
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_0: -1852509090
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_44: -1091715946
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_4: 1106060152
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_65: 70331769
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_57: -831452362
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_30: 796086148
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_67: -1290015215
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_39: -2005294967
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_11: 878136061
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_45: -1616271478
+      gust_planet_zone_act_1_and_3_sprites_by_alex13art_daj9mv2_27: 214071254
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

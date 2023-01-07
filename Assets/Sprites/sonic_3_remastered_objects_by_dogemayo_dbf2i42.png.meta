@@ -1,0 +1,2062 @@
+fileFormatVersion: 2
+guid: b2a061efe23e0d2468d9e6f17a164b37
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 119
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8411f2b9d0c0c743a1911c324126606
+      internalID: -375687627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 119
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9bd661f1de005458f550229469d8dc
+      internalID: -1475891179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 119
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a224804af98e064ca6f804b8e2b9df1
+      internalID: -661887041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 119
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc82ea0db4183904e82042a69989cf28
+      internalID: 494811325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 143
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e042ed771719146bd70e4d59e22105
+      internalID: -1344666216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 120
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e11b7282b5c104095b0a3d32559190
+      internalID: -1581192702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_6
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 119
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed454503ca1bab4baed44d48a20e308
+      internalID: 1856671935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 120
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb1ace1c45a604f9100c208ae266a0
+      internalID: 664177469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 119
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861cd477bb5aa724a82000ec8d9c1a49
+      internalID: -1671374623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 31
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e6d491a73781b43a652e713209911f
+      internalID: -1803167467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_10
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 135
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de16f5a2d04a983438560efb9b2bf8ad
+      internalID: 804966642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 135
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267755407cf8e5449882bd6477586da3
+      internalID: -231055705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 127
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4578ac3184641a54badaadcb2cab44a3
+      internalID: 481377161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 127
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f891701aa53abea4097b430e49c993f6
+      internalID: 1056944069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 119
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d3b7490641aed4fab290acee152cb0
+      internalID: 1839121460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 119
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba2ba13d0ef378e41aa00fae38cbb09e
+      internalID: 1249983161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 119
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e854ba4ec5e50684bb04e89fa1ffad82
+      internalID: -1653268321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 119
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae32fc4a90b79d4ea8a982bb57340bd
+      internalID: -472743315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_18
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 119
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17eaface609f69e4ca847e906a8b8c7b
+      internalID: 1444369041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d098cf2aa265d445babaa152165dec2
+      internalID: 2116381516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1af9cfa3439b947980e65f96c2b6d3
+      internalID: 2001036011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9736b7ef4215ce94cb7e5566865a9f73
+      internalID: -1914982635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a734047871fb4f240b00cb3bf2969dbb
+      internalID: 1112610098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31509195ebaa9645b704b790e946cee
+      internalID: -1064394368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 96
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669af7f005d9f3a40ac33b23da75077d
+      internalID: 1093387171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 97
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100042ff0fc108d448a14e1e35ee767b
+      internalID: 594435690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_26
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 97
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2de7e2c070bb542a4da8b606de04d2
+      internalID: 1701639137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 97
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a64196f978962f48b6e8ca991f33c57
+      internalID: -2024973352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_28
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 97
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf99f2a812d863e45bbaa40813d97ec6
+      internalID: 813847590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 97
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e55786d161f3f43b7e2dad398e673e
+      internalID: -1931142535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 97
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822e8825c50adff4784cf604ff22b007
+      internalID: 941143704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_31
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 97
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfe4ed192c520745961f325a4135b25
+      internalID: 1242236992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d012ae31d8e0bb74e810c2e21c0f9810
+      internalID: 237576915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_33
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 78
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc092c2e5d3462488dc5daf79630c41
+      internalID: -1029799457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_34
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 78
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777f9540157e9cc49946d075f040a2dc
+      internalID: 434124160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 77
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa86781838909d84f91d94cabc0aa750
+      internalID: 1165247681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 70
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb6342d43f3af54fab84fb0890da20e
+      internalID: -1827549651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_37
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 70
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3c517b1e2a87441add41dc053338ec
+      internalID: -1185799838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_38
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 70
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93299070c7237b54ab782daf7d9c19d7
+      internalID: 612575268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 82
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e36e82f5f25384abf4edb64acee30a
+      internalID: -1577478213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_40
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 82
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c72b04f6d3323a488ed63e586b7ef47
+      internalID: -711296770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 80
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca18c69e638f79458d7b4e02ab88aff
+      internalID: 1349419178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_42
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 82
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd67ea56c0f868488b63222758422f6
+      internalID: -293352800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_43
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 82
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51402d55bd928a4fb2f2e147a75153b
+      internalID: 479841018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_44
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 82
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfc4d173c04c1645b4fb3250f857cea
+      internalID: -1136464662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_45
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 82
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4415ffa63ae7689479414939662f8bc4
+      internalID: 14823850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_46
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 58
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e797e07bbf05a4486f449c83f8ed2a
+      internalID: -1542217753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_47
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 67
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d7e48965e69ed42a03694823017ce6
+      internalID: 1754862110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_48
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218f943e652ae44488a94a7d9bde2b22
+      internalID: 498906509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_49
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 67
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34fb1d0c5c85374184d23b4dfbdbb1f
+      internalID: -605927062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 67
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8061ac8279310a49ba4cab39406bd93
+      internalID: 713476775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_51
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 67
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f1c94a404dd264497150194eecc54a
+      internalID: 1229441238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_52
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 67
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29b7a752a8af1e4397032730af184b1
+      internalID: -1090530202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 65
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21625ba234984f84583928912d01e5f0
+      internalID: 816078978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_54
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 65
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a41c2b2b7a3ec940a8e7441806e55fe
+      internalID: 604273795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_55
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 67
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b63262ed440634d8398c770bb17414
+      internalID: 1996176751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_56
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 65
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a17dd830d533f64f82523e448ecb000
+      internalID: 102946999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_57
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 40
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26eadc5522bf4c1419b84da8337f5c2b
+      internalID: 396471014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_58
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c44cc06ac541d34993e8109270b56e4
+      internalID: -2140170426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_59
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 39
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aee550cb56169b4b84a2ee8de312b94
+      internalID: 236833951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_60
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0dfbc38caae484db509e649ec50af6
+      internalID: 1091894166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_61
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dcae9a3dc77a94db6f50259295960c
+      internalID: 1869516411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 35
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a813229ecaa4d243aa7652a2042ce0d
+      internalID: -1934342590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_63
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 52
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f928f6148c23af04d80f212a7364ef35
+      internalID: -1786483875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_64
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 52
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d10b7fe93afe354da667fd9630ef6d3
+      internalID: 1686738541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f03d363fc7a4b428491f408d3a9155
+      internalID: 511091733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_66
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2395ccfb0dffc428f472d5056fb524
+      internalID: 118343130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_67
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 37
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931a70784a218e944b28c1dbea6d86e3
+      internalID: -128446325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_68
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 35
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f69d20e6082f5428dc4f545cc75381
+      internalID: 1860185069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_69
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 37
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b463116fec9f74c9127482323d051f
+      internalID: 1250843389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_70
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 37
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85db0b132e8309d4bb088daec4150d20
+      internalID: -437163879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_71
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 37
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e546f73635c96e44b8c584ef225c645
+      internalID: 476576640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_72
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 37
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2dd6f6cd7ff1d46a9b450c4869c505
+      internalID: 1036333969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_73
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 27
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee17dbe53844e24b8523dc7f1cf1970
+      internalID: 1689379546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 20
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0eb93ee0244e56478c433b683bf4489
+      internalID: 1680810807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 20
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f51bf0f007c53645849320fb73c4b8f
+      internalID: 1083397346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_76
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f871a501900bf4db21351c34f07eed
+      internalID: -1480204366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_77
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823b5a0776f68034780ee8d2cc61948f
+      internalID: -1598623080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_78
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 18
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a623c20dd0ec90346ab4b63d83655da9
+      internalID: -1495023751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_79
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c5b902df98ece4191b4ac9996ec275
+      internalID: -637482808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_80
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 18
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e58505b7925064db1df6a07d672b4a
+      internalID: 117682166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_81
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 16
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef463e49a77e5c48bdc9f2491089945
+      internalID: 446400551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_82
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 3
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120957bf490b48647b4124854bb5a375
+      internalID: -1968441442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_83
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35871995a9fc9a44bff22f85afeac2b
+      internalID: -2017034158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_84
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a603ca1d9b729d46949984089004408
+      internalID: 972878078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ea6b40f72098e4fa891a6a6b5a9696
+      internalID: 1762351765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_3_remastered_objects_by_dogemayo_dbf2i42_86
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ebd071f87e49146afc41c58f17ee07
+      internalID: 225686368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_68: 1860185069
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_78: -1495023751
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_45: 14823850
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_74: 1680810807
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_27: -2024973352
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_16: -1653268321
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_32: 237576915
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_38: 612575268
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_73: 1689379546
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_67: -128446325
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_12: 481377161
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_49: -605927062
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_58: -2140170426
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_29: -1931142535
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_35: 1165247681
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_33: -1029799457
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_2: -661887041
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_42: -293352800
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_62: -1934342590
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_3: 494811325
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_61: 1869516411
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_20: 2001036011
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_28: 813847590
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_52: -1090530202
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_15: 1249983161
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_1: -1475891179
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_37: -1185799838
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_44: -1136464662
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_25: 594435690
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_14: 1839121460
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_22: 1112610098
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_9: -1803167467
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_70: -437163879
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_77: -1598623080
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_71: 476576640
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_18: 1444369041
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_72: 1036333969
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_56: 102946999
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_53: 816078978
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_17: -472743315
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_31: 1242236992
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_80: 117682166
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_63: -1786483875
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_40: -711296770
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_51: 1229441238
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_76: -1480204366
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_34: 434124160
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_60: 1091894166
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_8: -1671374623
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_59: 236833951
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_55: 1996176751
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_46: -1542217753
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_81: 446400551
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_39: -1577478213
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_11: -231055705
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_13: 1056944069
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_26: 1701639137
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_64: 1686738541
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_0: -375687627
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_23: -1064394368
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_57: 396471014
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_85: 1762351765
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_7: 664177469
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_24: 1093387171
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_30: 941143704
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_10: 804966642
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_4: -1344666216
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_54: 604273795
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_41: 1349419178
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_83: -2017034158
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_65: 511091733
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_50: 713476775
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_84: 972878078
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_5: -1581192702
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_75: 1083397346
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_82: -1968441442
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_19: 2116381516
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_43: 479841018
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_66: 118343130
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_21: -1914982635
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_86: 225686368
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_6: 1856671935
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_47: 1754862110
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_48: 498906509
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_69: 1250843389
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_79: -637482808
+      sonic_3_remastered_objects_by_dogemayo_dbf2i42_36: -1827549651
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

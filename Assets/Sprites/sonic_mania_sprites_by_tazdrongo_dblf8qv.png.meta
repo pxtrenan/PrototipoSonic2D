@@ -1,0 +1,2854 @@
+fileFormatVersion: 2
+guid: cb27d4c6e2247bb4186163e7f3232a45
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 399
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec13787eafd22ac46ad6dfad2449a84e
+      internalID: 1122282288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 399
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6125e2faa8e2f4f952d94765cbc9d7
+      internalID: -346933128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 399
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dcabb7b6145454899d6c7449a3db76
+      internalID: -1429770453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 399
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49e354ef95b88c4597130d978bb5686
+      internalID: -2038159640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_4
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 399
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4c5b6bbbfee7947816fd735753cb44
+      internalID: -1052965634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 399
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cdb2c0fabfb9e49b6c32dce8fcab04
+      internalID: -894205245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_6
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 399
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c9d109cd884ce4aacd409e8a758363
+      internalID: -360436551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 399
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2fb495bff2b324994b5710f9f04f50
+      internalID: -216938676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 436
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c82b20758a4c0c4895bba004475540d
+      internalID: 1948571393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 436
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc2d840ae88c864295a7ace4b8471d5
+      internalID: 1608701663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 436
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d572ebd07c3af4587262c6d38c3dcf
+      internalID: 522336417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_11
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 436
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba70c0ded1b61874abc8146e8eba14ce
+      internalID: 81436056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 436
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41d40d37181a2241bcb109ab3dd6e96
+      internalID: -1393390838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 436
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d317d1ca2472443479a4d9cd59a39345
+      internalID: 1530472445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 433
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e739dba00608cb488de3f9cb9db48bc
+      internalID: 468483771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_15
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 433
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57581871d30b0d54aad87a768a23563d
+      internalID: 253681238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 434
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c648b594e5d9404a92c992d4b8500d5
+      internalID: 159860653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_17
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 433
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de8aae08e813a488a5408acb9f8243
+      internalID: -849471722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_18
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 434
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22cc668040273742ac8cba31408fb75
+      internalID: -695543239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_19
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 401
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83c0f7bd25e5d3499a57db7fc51ff15
+      internalID: 1526546497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_20
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 401
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea7bcbc73ec00740bdd82ae1a6ebae8
+      internalID: -1996669343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_21
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 401
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8c91bb01750e949aab7074acc98f18
+      internalID: -1738568746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_22
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 401
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a0a026e8ff026429d58586420b93f9
+      internalID: 293491059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_23
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 401
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe635d46f522e8f4eb3bd647232dd565
+      internalID: 1166722552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_24
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 401
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1da4ca591370f4c86213498a0b7464
+      internalID: 1977499580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_25
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 401
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ec89ee179d59e4686c2a8f25b503de
+      internalID: -678801908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_26
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 396
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c032eb4c8506c74ba0e83835b33a6c5
+      internalID: -1760957119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_27
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 401
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e6c9d9ecc43bf40b8237ac65c02a98
+      internalID: 1589728032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_28
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 401
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1b65b7b0397c741b870569094f5bf2
+      internalID: 990019540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_29
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 401
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff21950b27b7214690bf6f300c26e09
+      internalID: 235689033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_30
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 403
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6995031ce3eabd4bbcbeb989e711717
+      internalID: -435200079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_31
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 402
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e364e3cebcd6f6a4bac8a60096cecf43
+      internalID: 1096248019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_32
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 402
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfe8360845bb6243b9b8414bf04207d
+      internalID: -1404681244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_33
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 401
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090fdf42cdc09074c8e95f68d56d5498
+      internalID: 222671629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_34
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 402
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3084ee51b12fef249b52159e227afcec
+      internalID: -772601581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_35
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 402
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8173c1f4049b749bae9890d9f1f825
+      internalID: -140940085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_36
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 353
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70197290783dc964f8f613c91377e62f
+      internalID: -114878346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_37
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 353
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e3e4916d3e2df438a62318acd543a3
+      internalID: 1939146007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_38
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 353
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4a2d4b6a3c2544caf15dd5c040502a
+      internalID: 589743968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 353
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0c634a063647348b8d131d30ed7d52
+      internalID: -673757339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_40
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 353
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbfcb9d393ee4c4cb2c8c2b6f9c0899
+      internalID: -717497176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_41
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 353
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5de0b9fe905f04198892de9b06259c
+      internalID: 2075967484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_42
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 353
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd688024f1b879b4c9637c41cdae8054
+      internalID: -1470227536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_43
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 353
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a2a8a3ba0417348a28eb094990640c
+      internalID: 25160297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 354
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069fd9f5574150546ba8053cfa144846
+      internalID: -596888236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 354
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c70e7f332395bb4b95aa8a848b31cc8
+      internalID: 1777180672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_46
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 355
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817d5fda4e614d2459d4803f0539bd78
+      internalID: -1720637515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_47
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 369
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba6d9d6fa9f9141a97b0d96b7f7bef
+      internalID: -2093578143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_48
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 369
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7533cef3d8ca624088b6b42d47aaca1
+      internalID: 536936321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_49
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 369
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92c30d44a528c049b3868bc9859b249
+      internalID: 1075604295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 309
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e86b04f5d5de84cb979656de258991
+      internalID: -739336890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_51
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 309
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3777c897310a01641bcea236e32ab904
+      internalID: 642205119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_52
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 309
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa1d2b0db8e2eb4592414faccc22c55
+      internalID: 2093993204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_53
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 309
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce5905b5f3a04a459bbbffeb867d81e
+      internalID: 169826315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_54
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 309
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3097d37dab57a49837693b1766581d
+      internalID: 573266058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_55
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 306
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f98dd2c7e9c034dbf585703264a144
+      internalID: -1422034917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_56
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 306
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1937b280d137846b5b57b8c038b2be
+      internalID: 1919988923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 307
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c11f0fc191fa4246aa1add92159ab1c
+      internalID: 1579714284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_58
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 306
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e181d397ba7b6040b6ed2093508b3c3
+      internalID: -599167966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_59
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 306
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc9fd644ae572d46b691ed1dc199439
+      internalID: -759973476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_60
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 306
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c42d5c6ec3f0c47a5befc4d701b331
+      internalID: 1394755635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_61
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 307
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e01728bdd2e414ba12be8fdcc4b460
+      internalID: 1204229549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_62
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 306
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e321d13d5f317645be5f34950479d57
+      internalID: -1280102112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_63
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 305
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b06df95e13738f4cb76fb395881a191
+      internalID: 1883201769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_64
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 305
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c86d09abdf39e740b58c155e9874867
+      internalID: 313665317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_65
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 305
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2bfeee3b6507b4e90b166ef2d04d76
+      internalID: -1631206978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_66
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 306
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5331edf55da377e428a2a51c4b8c71f3
+      internalID: -1998076758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_67
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 252
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee632d64907618d4eb5e42d5d09cf7ab
+      internalID: 1080257604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_68
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 252
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90b4f9bff0e01f40917eae8d01736e5
+      internalID: -1954810627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_69
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 252
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17933f48a5cb69446b09be022b13ddc1
+      internalID: -351342949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_70
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 252
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8045223ad32372d4eb62d2bf65416681
+      internalID: 544857973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_71
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 252
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7757cd26db0fd384c8d92a9baf8835f1
+      internalID: -1809070480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_72
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 259
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b99a2e500d1da4d8f915e14f47ef46
+      internalID: 270565129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_73
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 259
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aa0a44968ded84f9193d51d59daed9
+      internalID: 332358988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_74
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 259
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9173a433a2487954299010202aa3d9c5
+      internalID: -202533025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 259
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c2f2f740de81468460bbc20d65b1b
+      internalID: -55153083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_76
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 259
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f3a673d9acd24478c58e71b2b3f88a
+      internalID: -1723020977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_77
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 260
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209eec707e6437841af9c14f3db0c2a1
+      internalID: -1136765365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_78
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 260
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75df7cad52c1b0f4a9f2015ba1a15d88
+      internalID: 679868646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_79
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 260
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab76ceaa4a2057d4282ff8b2967dd711
+      internalID: 918003653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_80
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 261
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08061b67363362549a9b926d08ea6a32
+      internalID: -876700842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_81
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 261
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940cd35b459020248be2466dd508bff6
+      internalID: 1054804492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_82
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 261
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cbfd36a014681498bf46ab0afd17cb
+      internalID: -1249002483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_83
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 205
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1e653b4969d1a49a4992e8d8457a9b
+      internalID: 153042187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_84
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 205
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d94b901d1d71ff4f89e5d0750277704
+      internalID: 159368526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_85
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 205
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ab254fb2d733846967fe71b7eaf26d
+      internalID: 301847399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_86
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 199
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc521a0ff75e8f14ebbd28c674674024
+      internalID: -1026290713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_87
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 198
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69cad51bef7db24590c31fd452df503
+      internalID: 1032496948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_88
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 205
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe95dd98ae81d44eb6249a8f8fe956b
+      internalID: 1834298617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_89
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 206
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bf223da82beb747a125ec29e8b740b
+      internalID: 1539235704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_90
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 206
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde219be8ef1e1e4ca8a8b32639678eb
+      internalID: 762035915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_91
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 206
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452514cd2d404e642a42028565e51427
+      internalID: 1720385370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_92
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 206
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdb8b24879dc74468ef4f407b471844
+      internalID: -2057015667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_93
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 206
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f495a8eddb881874ebf182ef8ff74315
+      internalID: 1476440128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_94
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 206
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6f6a580ea7c9340bc7745c2d161a72
+      internalID: 846394210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_95
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 206
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb34ae59bd305e4cba311ec19aea1e8
+      internalID: -164523137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_96
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 206
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966b675ba17b61b4f84ec02489edb9c9
+      internalID: 609935236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_97
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 206
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151591487e0c2d54ea30ef9be6dee0ca
+      internalID: 1314168962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_98
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 206
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d3dc2acaadd514d804452e916deb43
+      internalID: 2113652802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_99
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 152
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b9c298f7c578844b33bcaca45ed3d5
+      internalID: 1648293917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_100
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 152
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65ed35439374554787fb8c4e6abe15c
+      internalID: -1624817691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_101
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 152
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a464125c68be2c84dba3eed0d3d242ff
+      internalID: 2009439368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_102
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 152
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eda1cc4e2ee23d47b5117ee8cd6bddc
+      internalID: -590423438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_103
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 151
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1edc1fab44a4143ba165d945aebd02
+      internalID: -1391900080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_104
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 151
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1521bd2c1cc3b3b43bb1f9c1232f3062
+      internalID: 512203809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_105
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 151
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e42eb9cc807f9468792ab02ea4f62f
+      internalID: -173031908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_106
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 151
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d8759a8fc77d3478a015297d70a5a0
+      internalID: 1299948695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_107
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 151
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8aba95876c097745a264dedd05b2f2c
+      internalID: -1789414699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_108
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 151
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a405ed770d7a7f0469b36fb1eed670fd
+      internalID: -748833118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_109
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 94
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aea4697c45e4c245b58fcc90cc022cb
+      internalID: 938498098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_110
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 94
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b899fa79d71c0414aaeed95ad7447ad4
+      internalID: 1254548765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 94
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b7c10cfc2bc4e40845eb44f99b0b33
+      internalID: -1065325397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_112
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 94
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1890c358e09910c43995999f65b6ed99
+      internalID: 1045772018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_113
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 94
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfca841c6cad9344a6d7f3ec7583faa
+      internalID: 1745312251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_114
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 98
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11dd1bd8cb1ff6449e6331f4b600f1c
+      internalID: -956939442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_115
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 98
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54806239d847ce4f872aef0b106d23c
+      internalID: 587151869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_116
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 98
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5499b46f019d4314fb1b7d66eb73bc1c
+      internalID: 1434915780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_117
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95ea3e8e42d70e4fb1963ffd26d2810
+      internalID: 1563736966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_118
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b34a2edc4272d4499bee543277857e
+      internalID: 388637522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_119
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dec43a1104ab74ba130f62810fb9fc
+      internalID: -1077445599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_120
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b572e0d782a7047b0e78f50d369b26
+      internalID: 2011591419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_121
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b136f1db2c617b4bb8b5049385c66ba
+      internalID: 1239838235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sonic_mania_sprites_by_tazdrongo_dblf8qv_122
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 98
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b701ee31f55b99f43b097ab4abeef57a
+      internalID: -2108495987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_95: -164523137
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_84: 159368526
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_32: -1404681244
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_61: 1204229549
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_85: 301847399
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_3: -2038159640
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_121: 1239838235
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_0: 1122282288
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_7: -216938676
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_81: 1054804492
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_20: -1996669343
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_70: 544857973
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_54: 573266058
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_63: 1883201769
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_78: 679868646
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_46: -1720637515
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_59: -759973476
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_39: -673757339
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_93: 1476440128
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_98: 2113652802
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_21: -1738568746
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_62: -1280102112
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_28: 990019540
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_92: -2057015667
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_49: 1075604295
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_75: -55153083
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_112: 1045772018
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_118: 388637522
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_97: 1314168962
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_36: -114878346
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_23: 1166722552
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_104: 512203809
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_119: -1077445599
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_6: -360436551
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_51: 642205119
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_64: 313665317
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_56: 1919988923
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_48: 536936321
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_108: -748833118
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_5: -894205245
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_120: 2011591419
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_88: 1834298617
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_105: -173031908
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_25: -678801908
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_116: 1434915780
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_30: -435200079
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_38: 589743968
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_117: 1563736966
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_19: 1526546497
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_10: 522336417
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_73: 332358988
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_96: 609935236
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_22: 293491059
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_107: -1789414699
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_94: 846394210
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_13: 1530472445
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_109: 938498098
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_42: -1470227536
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_91: 1720385370
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_114: -956939442
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_90: 762035915
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_80: -876700842
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_16: 159860653
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_26: -1760957119
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_87: 1032496948
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_77: -1136765365
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_122: -2108495987
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_31: 1096248019
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_102: -590423438
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_111: -1065325397
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_14: 468483771
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_47: -2093578143
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_89: 1539235704
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_115: 587151869
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_45: 1777180672
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_12: -1393390838
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_67: 1080257604
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_74: -202533025
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_101: 2009439368
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_4: -1052965634
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_29: 235689033
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_40: -717497176
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_15: 253681238
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_69: -351342949
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_66: -1998076758
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_8: 1948571393
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_52: 2093993204
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_2: -1429770453
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_82: -1249002483
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_43: 25160297
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_50: -739336890
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_100: -1624817691
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_33: 222671629
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_1: -346933128
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_44: -596888236
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_72: 270565129
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_24: 1977499580
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_37: 1939146007
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_86: -1026290713
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_68: -1954810627
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_9: 1608701663
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_65: -1631206978
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_57: 1579714284
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_110: 1254548765
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_35: -140940085
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_71: -1809070480
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_18: -695543239
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_17: -849471722
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_83: 153042187
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_60: 1394755635
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_76: -1723020977
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_55: -1422034917
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_58: -599167966
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_99: 1648293917
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_113: 1745312251
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_103: -1391900080
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_34: -772601581
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_106: 1299948695
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_41: 2075967484
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_27: 1589728032
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_79: 918003653
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_11: 81436056
+      sonic_mania_sprites_by_tazdrongo_dblf8qv_53: 169826315
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
